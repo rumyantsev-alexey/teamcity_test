@@ -8,6 +8,7 @@ class TestTeamcityApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("test run");
     }
 
 }
